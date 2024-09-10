@@ -1,5 +1,5 @@
 ### TODO List:
-- [x]
+- [x] done
 ##### Training on GPT2 
 ###### GPT2, being one of the first transformer architectures to be trained for text generation, it is simple, small, yet effective for basic level experimentations before using a larger model for more accurate results.
 ##### Using various different Bible Versions
