@@ -27,9 +27,15 @@
 ##### e) Using Q&A Datasets
 ###### i. By using Q&A Theology Books and files, we can fine-tune the model to answer our questions.
 ###### ii. For example, the Q&A book can be like:
-####### Q: What is God?
-####### A: …
-####### Q: Who is Jesus?
-####### A:…
-####### …
+``
+Q: What is God?
+
+ A: …
+
+ Q: Who is Jesus?
+
+ A:…
+
+ …
+``
 ###### iii. Where
