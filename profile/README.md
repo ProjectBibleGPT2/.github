@@ -1,8 +1,9 @@
 ### TODO List:
-- [x] done
 ##### Training on GPT2 
+- [ ] in progress
 ###### GPT2, being one of the first transformer architectures to be trained for text generation, it is simple, small, yet effective for basic level experimentations before using a larger model for more accurate results.
 ##### Using various different Bible Versions
+- [ ] in progress
 ###### By first starting with word for word translations, we establish words’ relationship with other words in the Bible in GPT2.
 ###### Then, by moving more to thought for thought, we introduce new vocabulary and introduce the idea of thought, while including the earlier versions as a validation dataset.
 ###### However, we do not use Paraphrase, since paraphrase means to state the text with one’s own words. Therefore, paraphrased Bibles are not really the “word” of God.
@@ -10,6 +11,7 @@
 *Image to insert*
 
 ##### (BETA) Try using Isopsephy
+- [ ] in progress
 ###### Isopsephy is giving each Ancient Greek/Hebrew letter a number (as denoted in the picture)
 
 *Image1 to insert*
@@ -20,8 +22,10 @@
 
 ###### Still researching on this topic. Will write a research topic that explores “Can Isopsephy enhance AI understanding of context?”
 ##### RAG
+- [ ] in progress
 ###### Using added context to further improve the performance and accuracy of the model.
 ##### Using Q&A Datasets
+- [ ] in progress
 ###### By using Q&A Theology Books and files, we can fine-tune the model to answer our questions.
 ###### For example, the Q&A book can be like:
 ```
