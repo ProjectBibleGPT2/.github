@@ -1,5 +1,5 @@
 ### TODO List:
-##### :negative_squared_cross_mark: Training on GPT2
+##### Training on GPT2 - [x]
 ###### GPT2, being one of the first transformer architectures to be trained for text generation, it is simple, small, yet effective for basic level experimentations before using a larger model for more accurate results.
 ##### Using various different Bible Versions
 ###### By first starting with word for word translations, we establish words’ relationship with other words in the Bible in GPT2.
