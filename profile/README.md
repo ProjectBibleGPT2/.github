@@ -8,17 +8,17 @@
 ###### Then, by moving more to thought for thought, we introduce new vocabulary and introduce the idea of thought, while including the earlier versions as a validation dataset.
 ###### However, we do not use Paraphrase, since paraphrase means to state the text with one’s own words. Therefore, paraphrased Bibles are not really the “word” of God.
 
-*Image to insert*
+![Bible Translations](https://github.com/ProjectBibleGPT2/.github/blob/384eb9bf911c53a65d136b09ebb6cf6a35d6d172/profile/bbltrans.png "Bible Translations")
 
 ##### (BETA) Try using Isopsephy
 - [ ] in progress
 ###### Isopsephy is giving each Ancient Greek/Hebrew letter a number (as denoted in the picture)
 
-*Image1 to insert*
+![Isopsepy Letters](https://github.com/ProjectBibleGPT2/.github/blob/384eb9bf911c53a65d136b09ebb6cf6a35d6d172/profile/Isopsephy%20letters.png "Isopsephy Letters")
 
 ###### If given a text and up all the words in the text, and find another text with the same sum, it means that the two texts are similar or have a similar aspect or overall meaning.
 
-*Image2 to insert*
+![Isopsephy Example](https://github.com/ProjectBibleGPT2/.github/blob/384eb9bf911c53a65d136b09ebb6cf6a35d6d172/profile/isospephy.png "Isopsephy Example")
 
 ###### Still researching on this topic. Will write a research topic that explores “Can Isopsephy enhance AI understanding of context?”
 ##### RAG
@@ -64,3 +64,4 @@ A: God’s)
 
 ###### GPT2 then proceed to generate one more word on the updated context and add it to the new updated context, and then continue again until a special token (e.g. <|endoftext|>) is generated, meaning that GPT2 has finished generating.
 
+![GPT2 Generation](https://github.com/ProjectBibleGPT2/.github/blob/384eb9bf911c53a65d136b09ebb6cf6a35d6d172/profile/generation.png "GPT2 Generation Example")
