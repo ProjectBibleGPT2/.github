@@ -10,17 +10,6 @@
 
 ![Bible Translations](https://github.com/ProjectBibleGPT2/.github/blob/384eb9bf911c53a65d136b09ebb6cf6a35d6d172/profile/bbltrans.png "Bible Translations")
 
-##### (BETA) Try using Isopsephy
-- [ ] in progress
-###### Isopsephy is giving each Ancient Greek/Hebrew letter a number (as denoted in the picture)
-
-![Isopsepy Letters](https://github.com/ProjectBibleGPT2/.github/blob/384eb9bf911c53a65d136b09ebb6cf6a35d6d172/profile/Isopsephy%20letters.png "Isopsephy Letters")
-
-###### If given a text and up all the words in the text, and find another text with the same sum, it means that the two texts are similar or have a similar aspect or overall meaning.
-
-![Isopsephy Example](https://github.com/ProjectBibleGPT2/.github/blob/384eb9bf911c53a65d136b09ebb6cf6a35d6d172/profile/isospephy.png "Isopsephy Example")
-
-###### Still researching on this topic. Will write a research topic that explores “Can Isopsephy enhance AI understanding of context?”
 ##### RAG
 - [ ] in progress
 ###### Using added context to further improve the performance and accuracy of the model.
