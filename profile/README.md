@@ -1,5 +1,5 @@
 ### TODO List:
-##### Training on GPT2 
+##### Training on GPT2 -> Check out [Inoob/Bible_GPT2](https://huggingface.co/Inoob/Bible_GPT2)
 - [x] Done
 ###### GPT2, being one of the first transformer architectures to be trained for text generation, it is simple, small, yet effective for basic level experimentations before using a larger model for more accurate results.
 ##### Using various different Bible Versions
